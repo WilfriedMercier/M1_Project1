@@ -1,0 +1,12 @@
+grande separation = 0.099035570
+freq puissance max = 2.0425540
+
+masse meilleur = 1.1173612252689342 M_sol
+rayon meilleur = 1.2814553753176283 R_sol
+
+rayon perso = 1.2338302244388120 R_sol
+masse perso = 1.0123360188632631 M_sol
+
+precisions relatives:
+rayon = 1.0949867266119604E-002
+masse = 3.2533038557811408E-002
